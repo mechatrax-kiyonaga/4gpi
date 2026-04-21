@@ -1,0 +1,16 @@
+{
+  "os_list": [
+    {
+      "name": "4GPi OS Trixie (64-bit)",
+      "description": "MechaTracks 4GPi Raspberry Pi OS Trixie",
+      "url": "https://mechatrax.com/data/4gpi/4gpi-trixie-lite-arm64-20260317.img.xz",
+      "image_download_size": 508821680,
+      "release_date": "2026-03-17",
+      "extract_size": 3087007744,
+      "extract_sha256": "1025a83ee348ce5f10c68d362c1930d761a8f1e9afc5f44eb51caabde3f3beef",
+      "init_format": "cloudinit-rpi",
+      "website": "https://github.com/mechatrax/4gpi/blob/main/os/4gpi-trixie-lite-arm64-20260317.md"
+    }
+  ]
+}
+
